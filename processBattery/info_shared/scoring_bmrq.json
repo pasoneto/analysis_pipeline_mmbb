@@ -1,0 +1,33 @@
+{
+  "scoring_system": {
+    "BMRQ_MS_subscore": [7, 11, 17, 2],
+    "BMRQ_EE_subscore": [3, 8, 12, 18],
+    "BMRQ_MR_subscore": [4, 9, 14, 19],
+    "BMRQ_SM_subscore": [10, 15, 20, 5],
+    "BMRQ_SR_subscore": [1, 6, 13, 16],
+    "BMRQ_totalScore": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+  },
+  "question_number": {
+    "1": "When I share music with someone I feel a special connection with that person.",
+    "2": "In my free time I hardly listen to music",
+    "3": "I like to listen to music that contains emotion",
+    "4": "Music keeps me company when I’m alone",
+    "5": "I don’t like to dance, not even with music I like",
+    "6": "Music makes me bond with other people",
+    "7": "I inform myself about music I like",
+    "8": "I get emotional listening to certain pieces of music",
+    "9": "Music calms and relaxes me",
+    "10": "Music often makes me dance",
+    "11": "I’m always looking for new music",
+    "12": "I can become tearful or cry when I listen to a melody that I like very much",
+    "13": "I like to sing or play an instrument with other people",
+    "14": "Music helps me chill out",
+    "15": "I can’t help humming or singing along to music that I like",
+    "16": "At a concert I feel connected to the performers and the audience",
+    "17": "I spend quite a bit of money on music and related items",
+    "18": "I sometimes feel chills when I hear a melody that I like",
+    "19": "Music comforts me",
+    "20": "When I hear a tune I like a lot I can’t help tapping or moving to its beat"
+  },
+  "questions_reversed": [2, 5]
+}

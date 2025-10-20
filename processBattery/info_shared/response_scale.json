@@ -1,0 +1,52 @@
+{
+  "Musical background": {
+    "never": 1,
+    "1-2 years": 2,
+    "3-5 years": 3,
+    "6-9 years": 4,
+    "10 or more years": 5,
+    "very rarely": 2,
+    "monthly": 3,
+    "weekly": 4,
+    "daily": 5,
+    "very musical": 5,
+    "quite musical": 4,
+    "a bit musical": 3,
+    "not that musical": 2,
+    "not at all musical": 1
+  },
+  "STOMP": {
+    "dislike strongly": 1,
+    "dislike moderately": 2,
+    "dislike a little": 3,
+    "neither like nor dislike": 4,
+    "like a little": 5,
+    "like moderately": 6,
+    "like strongly": 7
+  },
+  "BMRQ": {
+    "completely disagree": 1,
+    "somewhat disagree": 2,
+    "neither disagree nor agree": 3,
+    "somewhat agree": 4,
+    "completely agree": 5
+  },
+  "B-MMR": {
+    "completely disagree": 1,
+    "somewhat disagree": 2,
+    "neither disagree nor agree": 3,
+    "somewhat agree": 4,
+    "completely agree": 5
+  },
+  "GOLD-MSI": {
+    "completely disagree": 1,
+    "somewhat disagree": 2,
+    "neither disagree nor agree": 3,
+    "somewhat agree": 4,
+    "completely agree": 5
+  }
+}
+
+
+
+
